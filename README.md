@@ -15,7 +15,7 @@ for downloading original videos.
 ```
 python download_720p.py
 ```
-for downloading 720p of original videos.
+for downloading 720p videos.
 ***
 
 Please visit official dataset website for more information: [Vimeo-90K](http://toflow.csail.mit.edu/)
